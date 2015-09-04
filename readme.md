@@ -1,5 +1,21 @@
-This is a simple Javascript based maths quiz I created.
-My first program, don't judge.
+This is a simple Javascript based maths quiz I created. 
+My first program, don't judge. 
 
-Created while study Javascript via Treehouse.
-Pretty straight forward.
+Created while study Javascript via Treehouse. 
+Pretty straight forward. 
+
+-----  
+
+Here's some rad art yo:  
+
+@@@@@@@@@@   @@@@@@@@  @@@@@@@@@@   @@@@@@@@   @@@@@@   
+@@@@@@@@@@@  @@@@@@@@  @@@@@@@@@@@  @@@@@@@@  @@@@@@@   
+@@! @@! @@!  @@!       @@! @@! @@!  @@!       !@@       
+!@! !@! !@!  !@!       !@! !@! !@!  !@!       !@!       
+@!! !!@ @!@  @!!!:!    @!! !!@ @!@  @!!!:!    !!@@!!    
+!@!   ! !@!  !!!!!:    !@!   ! !@!  !!!!!:     !!@!!!   
+!!:     !!:  !!:       !!:     !!:  !!:            !:!  
+:!:     :!:  :!:       :!:     :!:  :!:           !:!   
+:::     ::    :: ::::  :::     ::    :: ::::  :::: ::   
+ :      :    : :: ::    :      :    : :: ::   :: : :    
+                                                        
